@@ -25,7 +25,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "Tests\\": "tests/" 
         }
     },
     "scripts": {
@@ -34,8 +34,8 @@
         ]
     },
     "config": {
-        "optimize-autoloader": true,
-        "preferred-install": "dist",
+        "optimize-autoloader": true, 
+        "preferred-install": "dist", 
         "sort-packages": true
     },
     "minimum-stability": "stable",
